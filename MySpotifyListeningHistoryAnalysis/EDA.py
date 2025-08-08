@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Path to your cleaned CSV
-data_path = "/Users/joblethomas/Projects/Spotify_Data_Analysis/CleanData.csv"
+data_path = "/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/CleanData.csv"
 
 # Load the data
 df = pd.read_csv(data_path)

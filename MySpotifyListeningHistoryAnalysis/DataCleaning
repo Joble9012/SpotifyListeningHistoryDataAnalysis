@@ -3,10 +3,10 @@ import json
 import pandas as pd
 
 # Folder where your JSON files are stored
-json_folder_path = "/Users/joblethomas/Projects/Spotify_Data_Analysis/RawData"  # <-- Change this to your actual folder path
+json_folder_path = "/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/RawData"  # <-- Change this to your actual folder path
 
 # Output file path
-output_folder = "/Users/joblethomas/Projects/Spotify_Data_Analysis"
+output_folder = "/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis"
 output_file = "CleanData.csv"
 output_path = os.path.join(output_folder, output_file)
 

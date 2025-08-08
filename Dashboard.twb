@@ -1340,8 +1340,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2550' minheight='2550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='161' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97778' id='160' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
+            <zone h='100000' id='163' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97778' id='162' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
                 <zone fixed-size='106' forceUpdate='true' h='15833' id='19' is-fixed='true' is-scaled='1' param='/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/Dashboard Images/SpotifyLogo.png' type-v2='bitmap' url='http://spotify.com' w='13122' x='625' y='1111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1721,8 +1721,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='158' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97778' id='157' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
+            <zone h='100000' id='160' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97778' id='159' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
                 <zone fixed-size='106' h='15833' id='19' is-fixed='true' is-scaled='1' param='/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/Dashboard Images/SpotifyLogo.png' type-v2='bitmap' url='http://spotify.com' w='13120' x='625' y='1111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2065,8 +2065,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1600' minheight='1600' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='102' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97778' id='101' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
+            <zone h='100000' id='104' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97778' id='103' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
                 <zone fixed-size='111' h='16528' id='19' is-fixed='true' is-scaled='1' param='/Users/joblethomas/Projects/Spotify_Data_Analysis/Dashboard Images/Spotify_Logo.png' type-v2='bitmap' url='http://spotify.com' w='13125' x='625' y='1111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2376,8 +2376,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2400' minheight='2400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='154' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97778' id='153' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
+            <zone h='100000' id='156' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97778' id='155' param='vert' type-v2='layout-flow' w='98750' x='625' y='1111'>
                 <zone fixed-size='106' h='15833' id='19' is-fixed='true' is-scaled='1' param='/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/Dashboard Images/SpotifyLogo.png' type-v2='bitmap' url='http://spotify.com' w='13120' x='625' y='1111'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2584,7 +2584,7 @@
   <windows source-height='30'>
     <window class='dashboard' maximized='true' name='Home'>
       <viewpoints />
-      <active id='-1' />
+      <active id='31' />
       <simple-id uuid='{0E0FB3F6-3562-4EEE-A6B5-1BCC239B2123}' />
     </window>
     <window class='dashboard' name='Random_Artist_Gen'>
@@ -2605,7 +2605,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='42' />
+      <active id='44' />
       <simple-id uuid='{9A99F9ED-FDBB-4786-8561-605E49ED16A2}' />
     </window>
     <window class='worksheet' name='TimeOfDay'>
@@ -2775,7 +2775,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='43' />
+      <active id='44' />
       <simple-id uuid='{A62F342A-56B5-4862-BDB1-04118EBDDF98}' />
     </window>
     <window class='worksheet' name='SongsPlayed'>
