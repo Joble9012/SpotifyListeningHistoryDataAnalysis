@@ -9,4 +9,5 @@ The analysis phase applies descriptive statistics and visualization to extract i
 The first finding is that Sunday consistently has the least amount of listening time. I believe this is because I usually spend Sundays with family and relatives, going to church, or running errands, which leaves less time for music.
 Another interesting observation is that Post Malone and Juice WRLD have consistently appeared among my top artists and songs over the years. This suggests a long-term preference for their music, regardless of other trends in my listening habits.
 
+
 In terms of listening patterns, my peak time for playing music is around 3:00 PM, which could be tied to afternoon activities or a natural energy boost during the day. I initially thought there might be a particular month that stood out as my highest listening month, but the data shows that it varies each year, with no single month dominating across all years.
