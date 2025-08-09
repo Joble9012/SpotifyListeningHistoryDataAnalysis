@@ -1,4 +1,4 @@
-# Random Artist Generator  
+# Overview
 
 Lately, I noticed I kept listening to the same handful of songs over and over. It became repetitive, uninspiring, and—frankly—a little boring.  
 
