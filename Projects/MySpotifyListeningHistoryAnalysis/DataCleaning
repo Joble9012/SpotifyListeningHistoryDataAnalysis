@@ -2,11 +2,11 @@ import os
 import json
 import pandas as pd
 
-# Folder where JSON files are stored
-json_folder_path = "/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis/RawData"  # <-- Change this to your actual folder path
+# Folder where your JSON files are stored
+json_folder_path = "/Users/joblethomas/Projects/Spotify_Data_Analysis/RawData"  # <-- Change this to your actual folder path
 
 # Output file path
-output_folder = "/Users/joblethomas/Projects/MySpotifyListeningHistoryAnalysis"
+output_folder = "/Users/joblethomas/Projects/Spotify_Data_Analysis"
 output_file = "CleanData.csv"
 output_path = os.path.join(output_folder, output_file)
 
@@ -60,7 +60,7 @@ df = df[df['track_name'] != 'White Noise 3 Hour Long']
 # Convert timestamp to datetime format
 df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
 
-# Remove timezone info
+# Remove timezone info to avoid nulls in Tableau
 df['timestamp'] = df['timestamp'].dt.tz_localize(None)
 
 # Filter rows from 2018 onwards
