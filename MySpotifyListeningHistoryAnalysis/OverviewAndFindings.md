@@ -5,6 +5,8 @@ Once the data was in good shape, I used pandas to start digging into it. I looke
 
 From there, I ran some descriptive stats and made visualizations to spot patterns. I calculated total listening hours, my most-played artists and songs, and which tracks I’ve spent the most time on. The data gave me some interesting insights into how my tastes have shifted, what artists I keep coming back to, and when I’m most likely to be listening. There’s still room to dig deeper—like looking at seasonal patterns, breaking things down by genre, or figuring out how time of day impacts what I play—but this gave me a solid foundation to start understanding my own music habits in detail.  
 
+---
+
 # Findings  
 
 **1. Lowest Listening Day**  
