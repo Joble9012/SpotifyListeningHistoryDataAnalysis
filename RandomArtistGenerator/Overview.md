@@ -1,4 +1,4 @@
-# 🎵 Random Artist Generator  
+# Random Artist Generator  
 
 Lately, I noticed I kept listening to the same handful of songs over and over. It became repetitive, uninspiring, and—frankly—a little boring.  
 
@@ -8,7 +8,7 @@ That’s what inspired me to create the **Random Artist Generator**—a fun Pyth
 
 ---
 
-## ✨ Features  
+## Features  
 
 - **Random Artist Generation** – Pulls a random artist from Spotify with a popularity score above 60.  
 - **Artist Details** – Shows the artist’s name, popularity, genres, and a clickable Spotify link.  
@@ -19,14 +19,14 @@ That’s what inspired me to create the **Random Artist Generator**—a fun Pyth
 
 ---
 
-## 🖥️ Two Modes of Use  
+## Two Modes of Use  
 
 - **GUI** (`app_ui.py`) – A simple Tkinter interface with buttons and a scrollable display.  
 - **CLI** (`main.py`) – A lightweight, interactive terminal-based version.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Python** – Core programming language  
 - **Tkinter** – GUI framework  
@@ -36,7 +36,7 @@ That’s what inspired me to create the **Random Artist Generator**—a fun Pyth
 
 ---
 
-## 🚀 How It Works  
+## How It Works  
 
 1. **Spotify API Connection** – Uses the Spotipy library with your Spotify API credentials.  
 2. **Random Search** – Selects a random letter, fetches 50 artists, and filters for popularity > 60.  
@@ -45,7 +45,7 @@ That’s what inspired me to create the **Random Artist Generator**—a fun Pyth
 
 ---
 
-## 🔧 Setup & Run  
+## Setup & Run  
 
 ### 1. Install dependencies:
   pip install spotipy python-dotenv
@@ -63,7 +63,7 @@ python main.py
 
 ---
 
-## 🚧 Future Plans  
+## Future Plans  
 
 This project is still in its early stages, and I’m excited to expand its capabilities.  
 Some upcoming ideas include:  
